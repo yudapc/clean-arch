@@ -1,0 +1,6 @@
+package: clean-arch
+import:
+- package: github.com/labstack/echo
+  version: v3.3.6
+  subpackages:
+  - middleware

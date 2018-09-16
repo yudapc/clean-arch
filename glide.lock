@@ -1,0 +1,8 @@
+hash: 25e39707c8fff7e0e156ff8235a608675332cfb45515c6fd9d506014555904fd
+updated: 2018-09-15T20:14:29.215578+07:00
+imports:
+- name: github.com/labstack/echo
+  version: 1abaa3049251d17932e4313c2d6165073fd07fd8
+  subpackages:
+  - middleware
+testImports: []
