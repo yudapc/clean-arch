@@ -1,5 +1,8 @@
 # clean-arch
 
+
+![Build Status](https://travis-ci.com/yudapc/clean-arch.svg?branch=master)
+
 Install glide
 
 `$ brew install glide`
