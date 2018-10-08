@@ -24,6 +24,18 @@ Please import file `.json` on folder `postman` to your postman app.
 Test RESTFull using postman (`users` and `posts`). 
 
 
+### Production
+Run in background:
+
+bash:
+
+`./clean-arch &`
+
+zsh:
+
+`./clean-arch &!`
+
+
 ### Testing
 Test RESTFull using `curl`:
 
